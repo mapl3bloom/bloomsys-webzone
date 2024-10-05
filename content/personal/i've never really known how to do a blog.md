@@ -1,3 +1,8 @@
+---
+tags:
+  - personal-ramble
+---
+
 and at this point i'm... well, i'm not afraid to ask and to try, but i think i need to go about things a bit differently from the norm. 
 
 in the wake of cohost's sunset, many of it's former users have started building personal websites, blogs, webrings, in an effort to keep connected. some have always had a website, some are remaking and updating theirs with renewed interest, and some are entirely new to the rodeo. i've been trying to do the same for a *long* time, but i've never quite known how to go about it, and the 3 or so attempts i made before this to create something using carrd wound up unfinished and dead in the water. it mostly has to do with what i want a website about myself in this day and age to be. just a simple links page? well, no, i don't want to exist primarily on social media anymore. a portfolio of artwork? yeah, i should do that, but it doesn't really explain much about me. a blog? well...
